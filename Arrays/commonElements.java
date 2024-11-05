@@ -2,7 +2,7 @@
 
 // User function Template for Java
 
-class Solution {
+class commonElements {
     // Function to find common elements in three arrays.
     public List<Integer> commonElements(List<Integer> arr1, List<Integer> arr2,
                                         List<Integer> arr3) {
